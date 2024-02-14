@@ -1,0 +1,22 @@
+body{
+    background-color: #3a2f7e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    height: 100vh;
+    text-align: center;
+}
+
+.quiz{
+    color: white;
+}
+
+.play{
+    background-color: green;
+    color: white;
+    border-radius: 15px;
+    padding: 10px;
+    margin-bottom: 40px;
+    width: 100%;    
+}
